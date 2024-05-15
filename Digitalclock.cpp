@@ -63,18 +63,6 @@ int main() {
     
         clock.display();
         
-        // Delay to simulate real-time
-        // Adjust sleep duration according to the desired update rate
-        // For example, sleep for 1 second for a real-time effect
-        // You may need to include appropriate headers for sleep function on your system
-        // e.g., #include <unistd.h> for Unix-like systems or #include <windows.h> for Windows
-        // Here, I'll assume a delay of 1 second
-        // Adjust this according to your needs or the platform you are using
-        // For Windows, you can use Sleep(1000) for 1 second delay
-        // For Unix-like systems, you can use sleep(1) for 1 second delay
-        // Remember to include the appropriate headers for your system
-        // sleep(1); // Unix-like systems
-        // Sleep(1000); // Windows systems
     
 
     return 0;
